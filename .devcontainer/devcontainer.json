@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/typescript-node:20-bullseye",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:20-bookworm",
   "features": {
     "ghcr.io/devcontainers/features/rust:1": {},
     "ghcr.io/dhoeric/features/google-cloud-cli:1": {},
